@@ -10,8 +10,9 @@ int main(void)
 	float b;
 	char c;
 	long int d;
+
 	long long int e;
-	/*commet*/
+	
 	printf("The size of an int is: %lu.\n", (unsigned long)sizeof(a));
 	printf("Size of a float: %lu byte(s)\n", (unsigned long)sizeof(b));
 	printf("Size of a char: %lu byte(s)\n", (unsigned long)sizeof(c));
