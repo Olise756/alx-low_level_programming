@@ -12,7 +12,7 @@ int main(void)
 {
 	int i;
 	/*commet*/
-	for (i = 0; i < 9; i++)
+	for (i = 0; i <= 9; i++)
 		/*commey*/
 		putchar (i);
 	putchar('\n');
