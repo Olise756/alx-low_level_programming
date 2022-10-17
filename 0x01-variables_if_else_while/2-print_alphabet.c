@@ -15,7 +15,5 @@ int main(void)
 	for (low = 'a'; low <= 'z'; low++)
 		putchar(low);
 	/*space for clea code*/
-	for (low = 'A'; low <= 'Z'; low++)
-		putchar(low);
 	return (0);
 }
