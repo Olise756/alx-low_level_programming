@@ -14,6 +14,7 @@ int main(void)
 	/*commey*/
 	for (low = 'a'; low <= 'z'; low++)
 		putchar(low);
+	putchar('\n');
 	/*space for clea code*/
 	return (0);
 }
