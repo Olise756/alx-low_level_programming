@@ -3,7 +3,7 @@
 
 /**
  * jack_bauer - Prints every minute of the day of Jack Bauer
- * @n: The character to be checked
+ *
  * Return: Always 0
  */
 
