@@ -17,4 +17,5 @@ int _abs(int c)
 		/*rrr*/
 		return (abs_val);
 	}
+	return (c);
 }
