@@ -7,7 +7,6 @@
  * @dest: destino de la cadena.
  * @n: number.
  * Return: dest.
-
  */
 
 char *_strncat(char *dest, char *src, int n)
