@@ -4,6 +4,10 @@
 
 /**
  * print_dog - Prints all the data of a dog
+ * @name: The name of the dog.
+ * @age: The age of the dog.
+ * @owner: The owner of the dog
+ * @d: A dog structur
  *
  * Return: Nothing
  */
